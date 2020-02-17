@@ -1,2 +1,1 @@
-# MATH5387
- Applied Regression Analysis
+This repository contains the final project for my Applied Regression Analysis (MATH 5387) course taken at the University of Colorado Denver campus in Spring 2019. The project analyzes rental prices using the Data to Policy (D2P) housing data. More information about the Data to Policy project can be found here: https://library.auraria.edu/d2pproject.
